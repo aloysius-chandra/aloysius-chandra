@@ -60,7 +60,7 @@
 ### [🔗 Consumables Inventory](https://github.com/aloysius-chandra/consumables_inventory)
 Inventory management system for tracking consumables with real-time updates.
 
-### [🔗 Project Name](https://github.com/aloysius-chandra/scc_control_app)
+### [🔗 SCC Control App](https://github.com/aloysius-chandra/scc_control_app)
 Flutter based mobile app for reading Solar Charge Control using ESP32 for reading SCC Modbus.
 
 ---
