@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aloysius Chandra!
 
-### 💻 Full-Stack Developer | 🚀 Tech Enthusiast | 💡 Problem Solver
+### Full-Stack Developer | Mechatronics Engineer
 
 ---
 
