@@ -4,29 +4,46 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### **Language**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### **Frontend Development**
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![AdminLTE](https://img.shields.io/badge/-AdminLTE-3C8DBC?style=flat-square&logo=adminlte&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-2C8EBB?style=flat-square&logo=ajax&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### **Frameworks**
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/-Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white)
+
+### **Microcontrollers**
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Quectel](https://img.shields.io/badge/-Quectel-F05032?style=flat-square&logo=quectel&logoColor=white)
 
 ---
 
@@ -43,25 +60,22 @@
 ### [🔗 Consumables Inventory](https://github.com/aloysius-chandra/consumables_inventory)
 Inventory management system for tracking consumables with real-time updates.
 
-### [🔗 Project Name](https://github.com/aloysius-chandra/your-project)
-Brief description of what your project does.
+### [🔗 Project Name](https://github.com/aloysius-chandra/scc_control_app)
+Flutter based mobile app for reading Solar Charge Control using ESP32 for reading SCC Modbus.
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aloysiuschandra3@gmail.com)
 
 ---
 
 ## 💡 Fun Facts
 
-- ⚡ **Currently learning:** Next.js & TypeScript
+- ⚡ **Currently learning:** CodeIgniter, Quectel, Flutter
 - 🎯 **2025 Goals:** Contribute to open source projects
 - 🎵 **Hobbies:** Coding, Music, Gaming
-- 📚 **Favorite Quote:** "First, solve the problem. Then, write the code."
+- 📚 **Favorite Quote:** "Do when u need to do."
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aloysius-chandra&color=blueviolet)
